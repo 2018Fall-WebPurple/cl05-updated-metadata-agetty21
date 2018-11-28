@@ -1,0 +1,42 @@
+/*
+* Anna Getty
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body {
+  background-color: lightcyan;
+font-family: Arial, Helvetica, sans-serif;
+     
+    
+}
+#Poptart {width: 300px; height: 250px;}
+#Poptartfig {float: left;}
+
+header {background-color: paleturquoise;}
+main {background-color: turquoise;}
+footer {background-color: darkturquoise;}
+
+h1 {
+    color: navy;
+    font-size: 300%;
+    text-align: center; 
+    text-decoration: underline overline;
+}
+h3{
+    color: navy;  
+}
+
+p{
+    background-color: white;
+    color: navy;
+    
+}
